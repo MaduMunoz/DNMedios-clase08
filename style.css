@@ -59,7 +59,7 @@ nav p, footer p {
 
 .active {
     text-decoration: underline;
-    color: lightgrey;
+    color: rgb(201, 250, 176);
 }
 
 /* para la página de portada */
@@ -110,7 +110,7 @@ main article{
     float:left;
     margin:1%;
     width:18%;
-    background: #3c3938;
+    background: #313131;
     box-shadow: 0 0 5px rgba(0, 0, 0, 0.2);
     border-radius: 7px;
 }
@@ -137,6 +137,7 @@ main article div h2{
     min-height:4rem;
     font-weight: 700;
     color: #f7f5f4;
+    font-display: ;
 }
 
 main article div h3{
@@ -179,6 +180,12 @@ main section h3{
 main section h4{
     font-size:1.2rem;
     line-height: 2.5;
+}
+
+main section h5{
+    font-size:1.2rem;
+    line-height: 2.5;
+    font-weight: 400;
 }
 
 main section img{

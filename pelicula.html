@@ -37,11 +37,11 @@
                         $("section").append("<h1>" + data[n].name + "</h1><h4>" + data[n].numero + " (" + data[n].year + ')</h4><img src="images/' + data[n].pic_lg + '"><p>' + data[n].description + '</p><h3>Más Info</h3><p>Para más información sobre esta actualización puedes revisar <a href="' + data[n].link + '" target="_blank">Minecraft Fandom</a><p>');
                     } 
                     else {
-                        document.querySelector("section").innerHTML = '<h1>Algo salió mal. Pero Alex está buscando cómo ayudarte</h1><h4>Por favor, vuelve a escoger cualquiera de las <a href="peliculas.html">actualizaciones</a></h4>';
+                        document.querySelector("section").innerHTML = '<h1>Algo salió mal. Pero Alex está buscando cómo ayudarte</h1><h5>Por favor, vuelve a escoger cualquiera de las <a href="peliculas.html">actualizaciones</a></h5>';
                         document.body.style.backgroundPosition = "bottom right";
-                        document.body.style.backgroundImage = 'url("images/error-amable.jpg")';
+                        document.body.style.backgroundImage = 'url("images/error-amable.png")';
                         document.body.style.backgroundRepeat = "no-repeat";
-                        document.body.style.backgroundSize = "auto 90%";
+                        document.body.style.backgroundSize = "auto 60%";
                     }
                 }); // cierro $.getJSON((){});
             }); //cierro $(function(){});
