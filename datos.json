@@ -1,0 +1,92 @@
+[
+    {
+        "name": "Pretty Scary Update",
+        "year": 2012,
+        "numero": "1.4.2",
+        "pic_sm": "pic_sm_01.png",
+        "pic_lg": "pic_lg_01.jpg",
+        "link": "https://minecraft.fandom.com/wiki/Pretty_Scary_Update",
+        "description": "The Pretty Scary Update es el nombre de una importante actualización lanzada oficialmente el jueves 25 de octubre de 2012 y que corresponde a la primera actualización con nombre. Entre los principales cambios se encontraban una serie de nuevos mobs (brujas, murciélagos, aldeanos zombis, esqueletos de wither), cabezas ponibles y colocables, un nuevo jefe (the Wither), bloques de mando, el yunque, la baliza, nuevos alimentos (papas, zanahorias y pies de calabaza), zanahorias en palos para controlar a los cerdos, la Nether Star y nuevos objetos de decoración (como marcos de objetos, macetas y muros de adoquines)."
+    },
+    {
+        "name": "Redstone Update",
+        "year": 2013,
+        "numero": "1.5",
+        "pic_sm": "pic_sm_02.png",
+        "pic_lg": "pic_lg_02.jpg",
+        "link": "https://minecraft.fandom.com/es/wiki/Redstone_Update",
+        "description": "Redstone Update es el nombre de una importante actualización lanzada el miércoles 13 de marzo de 2013. Entre los principales cambios se encuentran una serie de nuevos bloques relacionados con el redstone (mineral con el que se transmite energía para activar elementos), incluyendo el comparador, la tolva, el soltador, el sensor de luz solar, el cofre trampa, la placa de presión con peso y el bloque de redstone. Fue añadido el nuevo bloque de cuarzo, un bloque decorativo."
+    },
+    {
+        "name": "Combat Update",
+        "year": 2016,
+        "numero": "1.9",
+        "pic_sm": "pic_sm_03.png",
+        "pic_lg": "pic_lg_03.jpg",
+        "link": "https://minecraft.fandom.com/wiki/Combat_Update",
+        "description": "La actualización de combate es el nombre de una importante actualización lanzada el lunes 29 de febrero de 2016. Esta actualización revisó el sistema de combate, entre otras adiciones y cambios, y cambió la forma en la que los jugadores combatían en el juego drásticamente, marcando un antes y un después para aquellos dedicados al PvP (Player versus Player)."
+    },
+    {
+        "name": "Update Aquatic",
+        "year": 2018,
+        "numero": "1.13",
+        "pic_sm": "pic_sm_04.png",
+        "pic_lg": "pic_lg_04.jpg",
+        "link": "https://minecraft.fandom.com/es/wiki/Update_Aquatic",
+        "description": "The Update Aquatic es el nombre de una gran actualización que se lanzó en 2018. The Update Aquatic se centra en renovar los océanos en Minecraft, añadiendo muchos mobs acuáticos, bloques, objetos y estructuras nuevos. La actualización marca el inicio de la tendencia de lanzar importantes actualizaciones de contenido temático en ciertas versiones del juego de forma relativamente simultánea, en lugar de actualizaciones con títulos diferentes y sin relación entre sí por versión."
+    },
+    {
+        "name": "Village & Pillage",
+        "year": 2019,
+        "numero": "1.14",
+        "pic_sm": "pic_sm_05.png",
+        "pic_lg": "pic_lg_05.jpg",
+        "link": "https://minecraft.fandom.com/es/wiki/Village_%26_Pillage",
+        "description": "Village & Pillage fue una actualización centrada en la renovación de las aldeas que se lanzó el 23 de abril de 2019. Se centra principalmente en las aldeas, añadiendo un nuevo subconjunto de mobs illagers conocidos como pillagers, vindicators, evokers y vexes, y rediseñando la arquitectura de las aldeas para que coincida con el bioma en el que se encuentran. Esta actualización también incluye muchos bloques y mobs nuevos, una renovación del sistema de creación, actualiza el bioma de la taiga con zorros y bayas, y añade una nueva variante de la jungla del bosque de bambú junto con pandas y bambú. Además se agrega 'The texture update', que permite una retexturización completa de diferentes objetos del juego."
+    },
+    {
+        "name": "Buzzy Bees",
+        "year": 2019,
+        "numero": "1.15",
+        "pic_sm": "pic_sm_06.png",
+        "pic_lg": "pic_lg_06.jpg",
+        "link": "https://minecraft.fandom.com/wiki/Buzzy_Bees",
+        "description": "Buzzy Bees es una actualización que se lanzó el 10 de diciembre de 2019. Añadió abejas y objetos relacionados con las abejas, como colmenas, frascos de miel y panales. Junto a estas características, esta actualización se centró en corregir errores y mejorar el rendimiento."
+    }
+    {
+        "name": "Nether Update",
+        "year": 2020,
+        "numero": "1.16",
+        "pic_sm": "pic_sm_07.png",
+        "pic_lg": "pic_lg_07.jpg",
+        "link": "https://minecraft.fandom.com/es/wiki/Nether_Update",
+        "description": "The Nether Update es una actualización importante centrada en la renovación del Nether y se lanzó el 23 de junio de 2020. Añade múltiples novedades a esta dimensión, como nuevos biomas y mobs. Es una de las grandes actualizaciones del juego que cambió radicalmente la dimensión del Nether y, por lo mismo, impactó mucho de los modos de juego, especialmente para la comunidad del speedrunning."
+    }
+    {
+        "name": "Caves & Cliffs",
+        "year": 2021,
+        "numero": "1.17 y 1.18",
+        "pic_sm": "pic_sm_08.png",
+        "pic_lg": "pic_lg_08.jpg",
+        "link": "https://minecraft.fandom.com/es/wiki/Caves_%26_Cliffs",
+        "description": "Caves & Cliffs es el nombre de dos grandes actualizaciones temáticas. Debido al tamaño e impacto en el modo de juego y generación de terreno de la actualización, esta fue divida en 2 partes. La primera se lanzó el 8 de junio de 2021 y se centró en los bloques y los mobs. La segunda se publicó el 30 de noviembre de 2021 y trajo consigo una generación de mundos renovada que incluía una expansión de la altura y profundidad del mundo, y enormes cuevas y montañas, llenas de nuevos biomas."
+    }
+    {
+        "name": "The Wild Update",
+        "year": 2022,
+        "numero": "1.19",
+        "pic_sm": "pic_sm_09.png",
+        "pic_lg": "pic_lg_09.jpg",
+        "link": "https://minecraft.fandom.com/es/wiki/The_Wild_Update",
+        "description": "La actualización Salvaje es una actualización lanzada el 7 de junio de 2022, cuya temática gira en torno a las 'cosas que dan miedo' y la naturaleza salvaje. Introduce los biomas de las tinieblas profundas y los manglares, ciudades antiguas, monstruos como el alay, la rana, el renacuajo y el guardián, así como nuevos objetos que solo se pueden conseguir en estos nuevos biomas."
+    }
+    {
+        "name": "Trails & Tales",
+        "year": 2023,
+        "numero": "1.20",
+        "pic_sm": "pic_sm_10.png",
+        "pic_lg": "pic_lg_10.jpg",
+        "link": "https://minecraft.fandom.com/wiki/Trails_%26_Tales",
+        "description": "Trails & Tales es una actualización que se lanzará durante el año 2023. Su tema es 'la creatividad y la autoexpresión a través de la representación y la narración', y se centra principalmente en los bloques decorativos, las opciones de personalización y los recursos para la narración y el juego de rol impulsados por los jugadores. También añade nuevos mobs pasivos, un sistema de arqueología y el bioma del bosque de cerezos. "
+    }
+]
