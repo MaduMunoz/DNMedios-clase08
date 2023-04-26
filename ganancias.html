@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="es">
+    <head>
+        <meta charset="utf-8" />
+        <meta name="viewport" content="width=device-width, initial-scale=1" />
+        <meta name="description" content="Diseño y nuevos medios" />
+        <title>Actualizaciones de Minecraft</title>
+        <link rel="stylesheet" href="style.css" />
+    </head>
+    <body>
+        <div class="container">
+            <nav>
+                <p><a href="index.html">Portada</a> <a href="peliculas.html">Actualizaciones</a> <a href="ganancias.html" class="active">Ganancias</a></p>
+            </nav>
+            <main>
+                <canvas id="grafico" height="40" width="100">
+                    <!--acá se mete el mapa-->
+                </canvas>
+            </main>
+            <footer>
+                <p><a href="https://github.com/MaduMunoz">Madu Muñoz</a> <a href="https://github.com/profesorfaco/dno037-2023">DNO037</a></p>
+            </footer>
+        </div>
+    <script src="https://cdn.jsdelivr.net/npm/chart.js@3.2.0/dist/chart.min.js"></script>
+    <script>
+var ctx = document.getElementById('grafico').getContext('2d');
+var myChart = new Chart(ctx, {
+    type: 'bar',
+    data: {
+        labels: ['2012', '2013', '2014', '2015', '2016', '2017', '2018', '2019', '2020', '2021'],
+        datasets: [{
+            label: 'Ganancias por año (mm)',
+            data: [211, 326, 165, 350, 420, 370, 500, 375, 415, 380],
+            backgroundColor: 'rgba(160, 224, 128, 0.75)',
+            borderWidth: 0
+        }]
+    },
+    options: {
+        scales: {
+            y: {
+                beginAtZero: true
+            }
+        }
+    }
+});
+</script>
+    </body>
+</html>
