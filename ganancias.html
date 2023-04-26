@@ -30,9 +30,11 @@ var myChart = new Chart(ctx, {
         labels: ['2012', '2013', '2014', '2015', '2016', '2017', '2018', '2019', '2020', '2021'],
         datasets: [{
             label: 'Ganancias por año (mm)',
+            barThickness: 50,
             data: [211, 326, 165, 350, 420, 370, 500, 375, 415, 380],
             backgroundColor: 'rgba(160, 224, 128, 0.75)',
-            borderWidth: 0
+            borderWidth: 0,
+            borderRadius: 5, 
         }]
     },
     options: {
